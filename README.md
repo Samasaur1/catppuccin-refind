@@ -40,6 +40,7 @@
 2. Create a folder called `themes` inside it, if it doesn't already exist
 3. Clone this repo into the `themes` folder
 4. Add `include themes/refind/flavour.conf` to `refind.conf` (replace flavour with latte/frappe/macchiato/mocha)
+5. \[Sam's Addition\] Add `showtools shutdown,hidden_tags` after the `include` line so that you can hide entries.
 
 ## 💝 Thanks to
 
